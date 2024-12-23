@@ -65,4 +65,5 @@ endmodule
 
 
 **RESULTS**
+
 Thus the D -Flip flop has been implemented using Verilog successfully and validated its functionality using it's truth table.
